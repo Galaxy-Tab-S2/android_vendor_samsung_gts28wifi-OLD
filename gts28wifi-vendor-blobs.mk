@@ -31,14 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/etc/wifi/nvram_net.txt_4358_a1:system/etc/wifi/nvram_net.txt_4358_a1 \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/hevc_fw.bin:system/vendor/firmware/hevc_fw.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/fimc_is_fw2_imx240.bin:system/vendor/firmware/fimc_is_fw2_imx240.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/fimc_is_ois_63A.bin:system/vendor/firmware/fimc_is_ois_63A.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/fimc_is_ois_63B.bin:system/vendor/firmware/fimc_is_ois_63B.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/companion_default_coef.bin:system/vendor/firmware/companion_default_coef.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/companion_default_lsc.bin:system/vendor/firmware/companion_default_lsc.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/companion_fw_imx240_evt1.bin:system/vendor/firmware/companion_fw_imx240_evt1.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/companion_imx240_master_setfile.bin:system/vendor/firmware/companion_imx240_master_setfile.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/companion_imx240_mode_setfile.bin:system/vendor/firmware/companion_imx240_mode_setfile.bin \
+    vendor/samsung/gts28wifi/proprietary/vendor/firmware/fimc_is_fw2_4h5.bin:system/vendor/firmware/fimc_is_fw2_4h5.bin \
     vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp1-edac.bin:system/etc/firmware/florida-dsp1-edac.bin \
     vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp1-edac.wmfw:system/etc/firmware/florida-dsp1-edac.wmfw \
     vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp2-tx-fb-meeting.bin:system/etc/firmware/florida-dsp2-tx-fb-meeting.bin \
