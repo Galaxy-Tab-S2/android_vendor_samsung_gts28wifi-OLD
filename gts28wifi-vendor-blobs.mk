@@ -29,10 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/gts28wifi/proprietary/etc/wifi/nvram_net.txt_4356_a2:system/etc/wifi/nvram_net.txt_4356_a2 \
     vendor/samsung/gts28wifi/proprietary/etc/wifi/nvram_net.txt_4358_a1:system/etc/wifi/nvram_net.txt_4358_a1 \
-    vendor/samsung/gts28wifi/proprietary/etc/sec_s3fwrn5_rfreg_thl.bin:system/etc/sec_s3fwrn5_rfreg_thl.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/sec_s3fwrn5_rfreg.bin:system/etc/sec_s3fwrn5_rfreg.bin \
-    vendor/samsung/gts28wifi/proprietary/lib/hw/nfc_nci.universal5433.so:system/lib/hw/nfc_nci.universal5433.so \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin \
     vendor/samsung/gts28wifi/proprietary/lib/hw/consumerir.exynos5.so:system/lib/hw/consumerir.exynos5.so \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/hevc_fw.bin:system/vendor/firmware/hevc_fw.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
