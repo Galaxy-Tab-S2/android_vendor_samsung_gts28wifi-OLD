@@ -41,8 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/setfile_4h5.bin:system/vendor/firmware/setfile_4h5.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
     vendor/samsung/gts28wifi/proprietary/bin/gpsd:system/bin/gpsd \
-    vendor/samsung/gts28wifi/proprietary/lib/hw/gps.universal5433.so:system/lib/hw/gps.universal5433.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
+    vendor/samsung/gts28wifi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
