@@ -32,29 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/hevc_fw.bin:system/vendor/firmware/hevc_fw.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/fimc_is_fw2_4h5.bin:system/vendor/firmware/fimc_is_fw2_4h5.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp1-edac.bin:system/etc/firmware/florida-dsp1-edac.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp1-edac.wmfw:system/etc/firmware/florida-dsp1-edac.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp2-tx-fb-meeting.bin:system/etc/firmware/florida-dsp2-tx-fb-meeting.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp2-tx-fb-meeting.wmfw:system/etc/firmware/florida-dsp2-tx-fb-meeting.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp2-tx-nb.wmfw:system/etc/firmware/florida-dsp2-tx-nb.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp2-tx-swb.wmfw:system/etc/firmware/florida-dsp2-tx-swb.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp2-tx-wb.wmfw:system/etc/firmware/florida-dsp2-tx-wb.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-ez2-control.wmfw:system/etc/firmware/florida-dsp3-ez2-control.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-lpsd-control.bin:system/etc/firmware/florida-dsp3-lpsd-control.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-nb.bin:system/etc/firmware/florida-dsp3-tx-nb.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-nb.wmfw:system/etc/firmware/florida-dsp3-tx-nb.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-swb-conversation.bin:system/etc/firmware/florida-dsp3-tx-swb-conversation.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-swb-interview.bin:system/etc/firmware/florida-dsp3-tx-swb-interview.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-swb.wmfw:system/etc/firmware/florida-dsp3-tx-swb.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-wb-meeting.bin:system/etc/firmware/florida-dsp3-tx-wb-meeting.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-wb-meeting.wmfw:system/etc/firmware/florida-dsp3-tx-wb-meeting.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-wb.bin:system/etc/firmware/florida-dsp3-tx-wb.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp3-tx-wb.wmfw:system/etc/firmware/florida-dsp3-tx-wb.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp4-dsm.wmfw:system/etc/firmware/florida-dsp4-dsm.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp4-rx-anc-nb.bin:system/etc/firmware/florida-dsp4-rx-anc-nb.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp4-rx-anc-nb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-nb.wmfw \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.bin:system/etc/firmware/florida-dsp4-rx-anc-wb.bin \
-    vendor/samsung/gts28wifi/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-wb.wmfw \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/seiren_fw_dram.bin:system/vendor/firmware/seiren_fw_dram.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/seiren_fw_sram.bin:system/vendor/firmware/seiren_fw_sram.bin \
     vendor/samsung/gts28wifi/proprietary/lib/hw/camera.universal5433.so:system/lib/hw/camera.universal5433.so \
