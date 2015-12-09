@@ -38,8 +38,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/gts28wifi/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/gts28wifi/proprietary/lib/libvdis.so:system/lib/libvdis.so \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/setfile_6d1.bin:system/vendor/firmware/setfile_6d1.bin \
-    vendor/samsung/gts28wifi/proprietary/vendor/firmware/setfile_imx240.bin:system/vendor/firmware/setfile_imx240.bin \
+    vendor/samsung/gts28wifi/proprietary/vendor/firmware/setfile_4h5.bin:system/vendor/firmware/setfile_4h5.bin \
+    vendor/samsung/gts28wifi/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
     vendor/samsung/gts28wifi/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/gts28wifi/proprietary/lib/hw/gps.universal5433.so:system/lib/hw/gps.universal5433.so \
     vendor/samsung/gts28wifi/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
