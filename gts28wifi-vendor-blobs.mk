@@ -55,7 +55,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/gts28wifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/gts28wifi/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/gts28wifi/proprietary/lib/hw/consumerir.exynos5.so:system/lib/hw/consumerir.exynos5.so \
     vendor/samsung/gts28wifi/proprietary/app/FFFFFFFF000000000000000000000001.drbin:system/app/FFFFFFFF000000000000000000000001.drbin \
     vendor/samsung/gts28wifi/proprietary/app/mcRegistry/07010000000000000000000000000000.tlbin:system/app/mcRegistry/07010000000000000000000000000000.tlbin \
     vendor/samsung/gts28wifi/proprietary/app/mcRegistry/07060000000000000000000000000000.tlbin:system/app/mcRegistry/07060000000000000000000000000000.tlbin \
