@@ -47,6 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/samsung/gts28wifi/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     vendor/samsung/gts28wifi/proprietary/lib/hw/sensors.exynos5.so:system/lib/hw/sensors.exynos5.so \
+    vendor/samsung/gts28wifi/proprietary/lib/libsensorlistener.so:system/lib/libsensorlistener.so \
     vendor/samsung/gts28wifi/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
