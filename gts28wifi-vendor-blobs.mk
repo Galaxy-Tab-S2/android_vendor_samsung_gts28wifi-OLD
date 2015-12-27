@@ -34,28 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/fimc_is_fw2_4h5.bin:system/vendor/firmware/fimc_is_fw2_4h5.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/seiren_fw_dram.bin:system/vendor/firmware/seiren_fw_dram.bin \
     vendor/samsung/gts28wifi/proprietary/vendor/firmware/seiren_fw_sram.bin:system/vendor/firmware/seiren_fw_sram.bin \
-    vendor/samsung/gts28wifi/proprietary/lib/hw/audio.primary.universal5433.so:system/lib/hw/audio.primary.universal5433.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libExynosHWCService.so:system/lib/libExynosHWCService.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libSamsungPostProcess.so:system/lib/libSamsungPostProcess.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libSamsungPostProcess.so:system/lib/libSamsungPostProcess.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libSamsungPostProcessConvertor.so:system/lib/libSamsungPostProcessConvertor.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libSamsungPreProcess.so:system/lib/libSamsungPreProcess.so \
-    vendor/samsung/gts28wifi/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libpreprocessing_nxp.so:system/lib/libpreprocessing_nxp.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libsamsungDiamondVoiceExt.so:system/lib/libsamsungDiamondVoiceExt.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libtinycompress.so:system/lib/libtinycompress.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libvirtualdisplay.so:system/lib/libvirtualdisplay.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libvirtualdisplaymodule.so:system/lib/libvirtualdisplaymodule.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libsamsungSoundbooster_ext.so:system/lib/libsamsungSoundbooster_ext.so \
-    vendor/samsung/gts28wifi/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
-    vendor/samsung/gts28wifi/proprietary/lib/lib_SoundBooster_ver609a.so:system/lib/lib_SoundBooster_ver609a.so \
-    vendor/samsung/gts28wifi/proprietary/lib/lib_SoundAlive_SRC192_ver205.so:system/lib/lib_SoundAlive_SRC192_ver205.so \
-    vendor/samsung/gts28wifi/proprietary/lib/lib_SamsungRec_V04013.so:system/lib/lib_SamsungRec_V04013.so \
-    vendor/samsung/gts28wifi/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/lib_DNSe_NRSS_ver226.so \
     vendor/samsung/gts28wifi/proprietary/lib/hw/camera.universal5433.so:system/lib/hw/camera.universal5433.so \
     vendor/samsung/gts28wifi/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/gts28wifi/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
