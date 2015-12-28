@@ -45,8 +45,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/gts28wifi/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libRSDriver.so:system/lib/libRSDriver.so \
-    vendor/samsung/gts28wifi/proprietary/lib/libRSCpuRef.so:system/lib/libRSCpuRef.so \
     vendor/samsung/gts28wifi/proprietary/lib/libExynosOMX_Core.so:system/lib/libExynosOMX_Core.so \
     vendor/samsung/gts28wifi/proprietary/lib/omx/libOMX.Exynos.MPEG4.Decoder.so:system/lib/omx/libOMX.Exynos.MPEG4.Decoder.so \
     vendor/samsung/gts28wifi/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
